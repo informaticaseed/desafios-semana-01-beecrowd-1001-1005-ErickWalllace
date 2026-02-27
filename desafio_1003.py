@@ -15,3 +15,22 @@ de A e B.
 # Link do problema: https://judge.beecrowd.com/pt/problems/view/1003
 
 # Escreva sua solução abaixo
+# Leitura dos dois valores inteiros
+A = int(input())
+B = int(input())
+
+# Cálculo da soma
+SOMA = A + B
+
+# Impressão do resultado no formato exigido
+print(f"SOMA = {SOMA}")
+
+
+
+
+
+
+
+
+
+
